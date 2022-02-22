@@ -94,6 +94,7 @@ textarea{
 .camera{
   font-size: 56px;
   color: rgb(53, 49, 49);
+  cursor: pointer;
 }
 .subtit{
   font-size: 30px;
