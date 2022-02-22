@@ -1,6 +1,6 @@
 import React from "react";
 
-function Skill({value, part, handleSkillChange}) {
+function Skill({value, handleSkillChange}) {
     return <input
         name="skill"
         type="text"
